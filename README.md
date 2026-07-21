@@ -1,3 +1,4 @@
+**NutriAI: AI-Powered Meal Planner**
 Diet-Meal Recommendation System
 
 Project Overview
