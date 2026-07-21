@@ -1,7 +1,7 @@
 **NutriAI: AI-Powered Meal Planner**
-Diet-Meal Recommendation System
 
 Project Overview
+Diet-Meal Recommendation System
 
 
 The Diet-Meal Recommendation System is designed to recommend personalized meal plans based on user preferences, health conditions, fitness goals, and dietary restrictions. This system utilizes a Large Language Model (LLM) to process user inputs and suggest optimized meal plans.
